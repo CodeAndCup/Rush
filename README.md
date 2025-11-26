@@ -255,7 +255,6 @@ Le JAR sera généré dans `target/Rush-1.0-SNAPSHOT.jar`
 
 - Ce plugin est conçu pour fonctionner sur Spigot 1.8.8
 - L'utilisation de NMS (net.minecraft.server.v1_8_R3) le rend spécifique à cette version
-- CloudNet est optionnel mais recommandé pour la gestion multi-serveurs
 - NametagEdit est **obligatoire** pour le bon fonctionnement des préfixes d'équipe
 
 ## 🐛 Support
