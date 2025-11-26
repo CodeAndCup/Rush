@@ -1,0 +1,12 @@
+main: fr.perrier.rush.Main
+version: 1.0.6
+author: PerrierBottle
+name: Rush
+
+commands:
+  admin:
+    aliases: ["debug"]
+  rush:
+    aliases: ["info","information"]
+
+depend: ["NameTagEdit"]

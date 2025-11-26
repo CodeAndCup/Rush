@@ -1,0 +1,28 @@
+# Game Configuration
+game:
+  max-players-per-team: 10
+
+# Database Configuration
+# Type: MYSQL or SQLITE
+database:
+  type: "SQLITE"
+
+  # MySQL Settings (only used if type is MYSQL)
+  mysql:
+    host: "localhost"
+    port: 3306
+    database: "rush"
+    username: "root"
+    password: ""
+
+  # SQLite Settings (only used if type is SQLITE)
+  sqlite:
+    filename: "rush_data.db"
+
+  # Connection Pool Settings
+  pool:
+    max-pool-size: 10
+    min-idle: 2
+    max-lifetime: 1800000
+    connection-timeout: 5000
+
