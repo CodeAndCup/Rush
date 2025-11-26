@@ -49,11 +49,6 @@ Le plugin inclut 5 villageois marchands :
 - Sauvegarde des statistiques joueurs
 - Configuration flexible via `config.yml`
 
-### Intégration CloudNet
-- Support de **CloudNet v3.4.3**
-- Création automatique de nouveaux serveurs Rush
-- Gestion dynamique des instances
-
 ## 🔧 Configuration Requise
 
 ### Serveur
